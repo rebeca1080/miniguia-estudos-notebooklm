@@ -74,8 +74,8 @@ Mão de Obra: Existe uma carência de profissionais qualificados para implantar 
 - Como funciona um sistema IoT passo a passo?
 - Quais são os componentes da IoT?
 - Como a IoT é usada em cidades inteligentes?
-Quais são as vantegens e desvantagens do IoT?
-Este projeto pertmite compreender melhor a Internet das coisas e como a inteligência arrtifical pode apoiar no nosso aprendizado, sempre reforçando a imprtância de elaborar bons prompts para ter respostas completas e úteis.
+- Quais são as vantegens e desvantagens do IoT?
+- Este projeto pertmite compreender melhor a Internet das coisas e como a inteligência arrtifical pode apoiar no nosso aprendizado, sempre reforçando a imprtância de elaborar bons prompts para ter respostas completas e úteis.
 
 
 
