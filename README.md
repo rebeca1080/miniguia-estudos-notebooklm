@@ -56,12 +56,12 @@ Custos e Infraestrutura: O alto custo de implementação e a falta de infraestru
 Complexidade Técnica: A integração com sistemas antigos e a falta de padrões técnicos unificados entre fabricantes dificultam a interoperabilidade entre dispositivos
 Mão de Obra: Existe uma carência de profissionais qualificados para implantar e manter essas soluções tecnológicas complexas
 # Glossário
-- Internet das coisa(iot): Um objeto físico conectado a internet que trocam dados automaticamente.
+- Internet das coisas(iot): Um objeto físico conectado a internet que trocam dados automaticamente.
 - Sensor: Dispositivo que capta movimento do ambiente.
 - Atuador: Realiza uma ação física, exemplo: ligar ou desligar ar condicionado.
 - Microcontrolador: Minicomputador que gerencia funções do sistema
-- Conectividade: Realiza a troca de mensagens entre os dispositivos, exemplo: wifi, bluethootj, ZigBee.
-- Cidades Inteligentes: usa tecnologia para melhorias dos serviços, iluminação, semafóros.
+- Conectividade: Realiza a troca de mensagens entre os dispositivos, exemplo: wifi, bluethooth, ZigBee.
+- Cidades Inteligentes: usa tecnologia para melhorias dos serviços, iluminação, semáforos.
 - Gateway: Equipamento eletrônico que funciona como um ponto de conexão, unindo a rede local de dispositivos à internet global.
 - IPv6: protocolo de endereçamento.
 - LGPD (Lei Geral de Proteção de Dados): Legislação brasileira, para proteger os dados pessoais.
@@ -74,8 +74,8 @@ Mão de Obra: Existe uma carência de profissionais qualificados para implantar 
 - Como funciona um sistema IoT passo a passo?
 - Quais são os componentes da IoT?
 - Como a IoT é usada em cidades inteligentes?
-- Quais são as vantegens e desvantagens do IoT?
-- Este projeto pertmite compreender melhor a Internet das coisas e como a inteligência arrtifical pode apoiar no nosso aprendizado, sempre reforçando a imprtância de elaborar bons prompts para ter respostas completas e úteis.
+- Quais são as vantegens e desvantagens da IoT?
+- Este projeto permite compreender melhor a Internet das coisas e como a inteligência artifical pode apoiar no nosso aprendizado, sempre reforçando a importância de elaborar bons prompts para ter respostas completas e úteis.
 
 
 
