@@ -1,25 +1,25 @@
 # 📘 Miniguia de Estudos com NotebookLM
-Este projeto foi desenvolvido como parte de um desafio da plataforma DIO, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
-O tema escolhido para o caderno temático foi: Internet das Coisas: Teoria e Prática de Projetos IoT.
+- Este projeto foi desenvolvido como parte de um desafio da plataforma DIO, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
+- O tema escolhido para o caderno temático foi: Internet das Coisas: Teoria e Prática de Projetos IoT.
 # O objetivo de estudo:
 Compreender os principais conceitos fundamentais sobre internet das coisas.
 Desenvolver pensamento crítico com o apoio da IA.
 criar um material para a revisão.
 # Curadoria de Fontes:
-https://www.ibm.com/br-pt/think/topics/internet-of-things
-https://imasters.com.br/desenvolvimento/programacao-para-iot
-https://www.fortinet.com/br/resources/cyberglossary/iot
+- https://www.ibm.com/br-pt/think/topics/internet-of-things
+- https://imasters.com.br/desenvolvimento/programacao-para-iot
+- https://www.fortinet.com/br/resources/cyberglossary/iot
 
 # 🤖 Engenharia de Prompts e "Cicatrizes"
 # Prompt 1:
-Explique o que é iot.
-Resposta resumida: A Internet das Coisas (IoT), do inglês Internet of Things, é a infraestrutura que interconecta objetos físicos, pessoas e sistemas, permitindo que aparelhos do cotidiano coletem, transmitam e reajam a informações do mundo físico e virtual.
+- Explique o que é iot.
+- Resposta resumida: A Internet das Coisas (IoT), do inglês Internet of Things, é a infraestrutura que interconecta objetos físicos, pessoas e sistemas, permitindo que aparelhos do cotidiano coletem, transmitam e reajam a informações do mundo físico e virtual.
 # Prompt 2:
-Quais são os principais desafios para adotar IoT no Brasil?
-Resposta resumida:A adoção da Internet das Coisas (IoT) no Brasil enfrenta obstáculos significativos que vão desde limitações financeiras e técnicas até questões de infraestrutura e regulamentação. De acordo com os levantamentos da ABINC e estudos acadêmicos, os principais desafios são: Custos de Implementação, Infraestrutura de Conectividade, Segurança e Privacidade (LGPD), Mão de Obra Qualificada, Padronização e Interoperabilidade, Regulamentação e Adesão do Mercado.
+- Quais são os principais desafios para adotar IoT no Brasil?
+- Resposta resumida:A adoção da Internet das Coisas (IoT) no Brasil enfrenta obstáculos significativos que vão desde limitações financeiras e técnicas até questões de infraestrutura e regulamentação. De acordo com os levantamentos da ABINC e estudos acadêmicos, os principais desafios são: Custos de Implementação, Infraestrutura de Conectividade, Segurança e Privacidade (LGPD), Mão de Obra Qualificada, Padronização e Interoperabilidade, Regulamentação e Adesão do Mercado.
 # Prompt 3:
-Explique iot como se eu fosse iniciante, com exemplos práticos em poucas palavras.
-Resposta: A Internet das Coisas (IoT) é a conexão de objetos do dia a dia (como lâmpadas, relógios e máquinas) à internet e entre si. Isso permite que eles coletem dados e realizem tarefas de forma automática, sem que você precise intervir em cada ação. Na prática, um objeto comum se torna "inteligente" quando possui sensores para sentir o ambiente, um microprocessador para pensar e uma conexão (Wi-Fi, Bluetooth ou 5G) para enviar informações
+- Explique iot como se eu fosse iniciante, com exemplos práticos em poucas palavras.
+- Resposta: A Internet das Coisas (IoT) é a conexão de objetos do dia a dia (como lâmpadas, relógios e máquinas) à internet e entre si. Isso permite que eles coletem dados e realizem tarefas de forma automática, sem que você precise intervir em cada ação. Na prática, um objeto comum se torna "inteligente" quando possui sensores para sentir o ambiente, um microprocessador para pensar e uma conexão (Wi-Fi, Bluetooth ou 5G) para enviar informações
 Exemplos práticos:
 Casa Inteligente: Um ar-condicionado que liga sozinho quando detecta, pelo GPS do seu celular, que você está chegando
 Saúde: Relógios que monitoram seus batimentos e avisam o médico automaticamente em caso de emergência
@@ -56,24 +56,24 @@ Custos e Infraestrutura: O alto custo de implementação e a falta de infraestru
 Complexidade Técnica: A integração com sistemas antigos e a falta de padrões técnicos unificados entre fabricantes dificultam a interoperabilidade entre dispositivos
 Mão de Obra: Existe uma carência de profissionais qualificados para implantar e manter essas soluções tecnológicas complexas
 # Glossário
-Internet das coisa(iot): Um objeto físico conectado a internet que trocam dados automaticamente.
-Sensor: Dispositivo que capta movimento do ambiente.
-Atuador: Realiza uma ação física, exemplo: ligar ou desligar ar condicionado.
-Microcontrolador: Minicomputador que gerencia funções do sistema
-Conectividade: Realiza a troca de mensagens entre os dispositivos, exemplo: wifi, bluethootj, ZigBee.
-Cidades Inteligentes: usa tecnologia para melhorias dos serviços, iluminação, semafóros.
-Gateway: Equipamento eletrônico que funciona como um ponto de conexão, unindo a rede local de dispositivos à internet global.
-IPv6: protocolo de endereçamento.
-LGPD (Lei Geral de Proteção de Dados): Legislação brasileira, para proteger os dados pessoais.
-MQTT: Protocolo de mensagens leve e robusto, para sensores e dispositivos móveis em redes, é o padrão mais popular na IoT.
-Interoperabilidade: Diferentes sistemas que funcionam juntos.
-Computação de Borda (Edge Computing): Realiza o processamento de dados localmente, sem enviar para a nuvem.
+- Internet das coisa(iot): Um objeto físico conectado a internet que trocam dados automaticamente.
+- Sensor: Dispositivo que capta movimento do ambiente.
+- Atuador: Realiza uma ação física, exemplo: ligar ou desligar ar condicionado.
+- Microcontrolador: Minicomputador que gerencia funções do sistema
+- Conectividade: Realiza a troca de mensagens entre os dispositivos, exemplo: wifi, bluethootj, ZigBee.
+- Cidades Inteligentes: usa tecnologia para melhorias dos serviços, iluminação, semafóros.
+- Gateway: Equipamento eletrônico que funciona como um ponto de conexão, unindo a rede local de dispositivos à internet global.
+- IPv6: protocolo de endereçamento.
+- LGPD (Lei Geral de Proteção de Dados): Legislação brasileira, para proteger os dados pessoais.
+- MQTT: Protocolo de mensagens leve e robusto, para sensores e dispositivos móveis em redes, é o padrão mais popular na IoT.
+- Interoperabilidade: Diferentes sistemas que funcionam juntos.
+- Computação de Borda (Edge Computing): Realiza o processamento de dados localmente, sem enviar para a nuvem.
 # Prompts Reutilizáveis
-Explique IoT de forma simples.
-Faça um resumo sobre IoT.
-Como funciona um sistema IoT passo a passo?
-Quais são os componentes da IoT?
-Como a IoT é usada em cidades inteligentes?
+- Explique IoT de forma simples.
+- Faça um resumo sobre IoT.
+- Como funciona um sistema IoT passo a passo?
+- Quais são os componentes da IoT?
+- Como a IoT é usada em cidades inteligentes?
 Quais são as vantegens e desvantagens do IoT?
 Este projeto pertmite compreender melhor a Internet das coisas e como a inteligência arrtifical pode apoiar no nosso aprendizado, sempre reforçando a imprtância de elaborar bons prompts para ter respostas completas e úteis.
 
